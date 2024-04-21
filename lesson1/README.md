@@ -1,3 +1,4 @@
+# Micrograd (the core of PyTorch)
 [Link to the lesson](https://www.youtube.com/watch?v=VMj-3S1tku0&t=2452s) 
 
 The notebook in this repo showcases how backpropagation works to optimise a simple net. You can manually create a graph like [this one](https://github.com/francesco-losciale/nn-backpropagation/blob/main/graph.jpg?raw=true) by doing forward and backward pass and use it a reference for understanding/changing the code. 
